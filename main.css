@@ -1,0 +1,37 @@
+body {
+    padding-left: 10vw;
+    padding-top: 1vh;
+    font-size: 16px;
+}
+
+a {
+    color: rgb(30, 116, 221);
+}
+
+#Intro {
+    padding-left: 1vw;
+}
+
+.ProjectHeading {
+    padding-left: 1vw;
+    font-size: 18px;
+}
+
+.ProjectDescription {
+    padding-left: 1vw;
+    padding-bottom: 1vw;
+}
+
+.AchievementElementHeading {
+    padding-left: 1vw;
+    font-size: 18px;
+}
+
+.AchievementElementDescription {
+    padding-left: 1vw;
+    padding-bottom: 1vw;
+}
+
+.Contact {
+    padding-left: 1vw;
+}
