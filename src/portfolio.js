@@ -119,7 +119,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "",
   projects: [
   ],
   display: false // Set false to hide this section, defaults to true
@@ -151,7 +151,7 @@ const achievementSection = {
       title: "D3Code 2022 Hackathon",
       subtitle:
         "Won d3code hackathon 2022 with team Orsted Corp.",
-      image: require("./assets/images/d3code.png"),
+      image: require("./assets/images/d3code-logo.png"),
       imageAlt: "d3code",
       footerLink: [
         {
