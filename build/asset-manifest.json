@@ -1,25 +1,30 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.8a9c98c2.css",
-    "main.js": "/Portfolio/static/js/main.1a630d40.js",
+    "main.js": "/Portfolio/static/js/main.eb190a10.js",
     "static/css/64.917cfe77.chunk.css": "/Portfolio/static/css/64.917cfe77.chunk.css",
     "static/js/64.8386b8af.chunk.js": "/Portfolio/static/js/64.8386b8af.chunk.js",
     "static/css/769.70f3b610.chunk.css": "/Portfolio/static/css/769.70f3b610.chunk.css",
     "static/js/769.a8b35a9a.chunk.js": "/Portfolio/static/js/769.a8b35a9a.chunk.js",
     "static/media/d3code.png": "/Portfolio/static/media/d3code.d885fd15135c0862ed92.png",
+    "static/media/Vivid.png": "/Portfolio/static/media/Vivid.eefee5abedfd48126a83.png",
+    "static/media/PlayCTF.png": "/Portfolio/static/media/PlayCTF.91f9f51e9d5fa8829fe8.png",
     "static/media/IITR.jpg": "/Portfolio/static/media/IITR.31e79c1a1720526949cc.jpg",
     "static/media/Montserrat-Regular.ttf": "/Portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/openargus.png": "/Portfolio/static/media/openargus.bfbfbd46c3882523c09f.png",
     "static/media/csaw-esc.png": "/Portfolio/static/media/csaw-esc.0eacc446864a2d369d07.png",
+    "static/media/Rootex.png": "/Portfolio/static/media/Rootex.5a490b4b73d800064209.png",
     "static/media/Agustina.woff": "/Portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/csaw.png": "/Portfolio/static/media/csaw.693a57ef10fe6d286e3a.png",
     "static/media/manOnTable.svg": "/Portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/BNY_Mellon.png": "/Portfolio/static/media/BNY_Mellon.18e3486282eaeddd3bfa.png",
     "static/media/contactMailDark.svg": "/Portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/Portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/skill.svg": "/Portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/Portfolio/index.html",
     "static/media/talksCardBack.svg": "/Portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.8a9c98c2.css.map": "/Portfolio/static/css/main.8a9c98c2.css.map",
-    "main.1a630d40.js.map": "/Portfolio/static/js/main.1a630d40.js.map",
+    "main.eb190a10.js.map": "/Portfolio/static/js/main.eb190a10.js.map",
     "64.917cfe77.chunk.css.map": "/Portfolio/static/css/64.917cfe77.chunk.css.map",
     "64.8386b8af.chunk.js.map": "/Portfolio/static/js/64.8386b8af.chunk.js.map",
     "769.70f3b610.chunk.css.map": "/Portfolio/static/css/769.70f3b610.chunk.css.map",
@@ -27,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.8a9c98c2.css",
-    "static/js/main.1a630d40.js"
+    "static/js/main.eb190a10.js"
   ]
 }

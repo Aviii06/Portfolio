@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Hi I am Archit Gosain, currently studying at IIT Roorkee. I am interested in Graphics Programming, Computer Architecture and Abstract Maths and its applications.",
   resumeLink:
-    "https://drive.google.com/file/d/1D6xOS8FqSaRlF12a-fm8IJHOkGfUSc9Y/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1fJe838C_ee-XWO3o2FylJtNnEunZwSQP/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
